@@ -1,1 +1,3 @@
-https://fonts.google.com/specimen/Karla
+Arrangement of logos using react & flexbox.
+
+Has a ton of extra stuff in it. Only the logos in `src/media/logos` and `src/ui/App.jsx` are relevant.
